@@ -1,0 +1,33 @@
+html,body{
+    background-image: url('./sand\ timer.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri', 'Trebuchet MS', 'sans-serif';
+}
+.navbar{
+    padding: 10%;
+   
+}
+header{
+    background-color: black !important;
+}
+#navbar-nav{
+    float: right;
+}
+ .heading{ 
+     text-align: left;
+        color: rgb(49, 18, 18); 
+        font-size: xx-large; 
+        font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri', 'Trebuchet MS', 'sans-serif';
+   
+}  
+.row{
+    display: flex;
+    height: 88%;
+    align-items: center;
+    padding-left: 25px;
+}
+.col{
+    flex-basis: 50%;
+}

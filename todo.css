@@ -1,0 +1,43 @@
+html,body{
+    background-image: url('./tick-symptom-checklist-checking.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri', 'Trebuchet MS', 'sans-serif'; 
+}
+.navbar{
+    padding: 10%;
+}
+#navbar-nav{
+    float: right;
+}
+
+
+table{ 
+        margin: 0 auto; 
+        font-size: large; 
+        border: 1px solid black; 
+        margin-bottom: 30px;
+    } 
+
+h1 { 
+        text-align: center; 
+        color: #393e49; 
+        font-size: xx-large; 
+        font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri', 'Trebuchet MS', 'sans-serif';
+    } 
+
+td { 
+        background-color: #E4F5D4; 
+        border: 1px solid black; 
+    } 
+
+th, td { 
+        font-weight: bold; 
+        border: 1px solid black; 
+        padding: 10px; 
+        text-align: center; 
+    } 
+
+td { 
+        font-weight: lighter; 
+    } 
